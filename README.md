@@ -1,4 +1,5 @@
 # TopDownActionGame
 
 Hotline Miami 3?
-WIP
+
+currently WIP, development halted
