@@ -12,6 +12,7 @@ public class WindowScript : MonoBehaviour
     {
         //play shatter animation
         //remove sprite
+        //test comment
         box_collider.enabled = false;
     }
 }
